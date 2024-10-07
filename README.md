@@ -1,76 +1,72 @@
 # Hero and Skin List
 
-## 1. Miya
-- Legend
+## 1. Alice
+- Epic
+
+## 2. Beatrix
+- Prime
+
+## 3. Brody
+- Stun
 - Collector
 
-## 2. Bruno
+## 4. Bruno
 - Neymar
 - Hero
 
-## 3. Clint
+## 5. Cecilion
 - Collector
 
-## 4. Layla
-- Aspirant
+## 6. Clint
 - Collector
 
-## 5. Ruby
-- Collector
-
-## 6. Karrie
+## 7. Freya
 - Epic
-
-## 7. Lesley
-- Aspirant
 
 ## 8. Hanabi
 - All Star
 
-## 9. Claude
-- Epic
+## 9. Harith
+- Lightborn
+- Collector
 
 ## 10. Kimmy
 - Star Wars
 
-## 11. Wanwan
-- Collector
-
-## 12. Brody
-- Stun
-- Collector
-
-## 13. Beatrix
-- Prime
-- Starlight
-
-## 14. Melissa
-- Jujutsu Kaisen
-
-## 15. Cecilion
-- Collector
-
-## 16. Alice
+## 11. Karrie
 - Epic
 
-## 17. Harith
-- Lightborn
+## 12. Layla
+- Aspirant
 - Collector
 
-## 18. Lancelot
+## 13. Lancelot
 - Hero
 
-## 19. Ling
+## 14. Lesley
+- Aspirant
+
+## 15. Ling
 - Collector
 
-## 20. Freya
-- Epic
-
-## 21. Zilong
+## 16. Miya
+- Legend
 - Collector
 
-## 22. Paquito
+## 17. Melissa
+- Jujutsu Kaisen
+
+## 18. Ruby
+- Aspirant
+
+## 19. Wanwan
+- Collector
+
+## 20. Zilong
+- Collector
+
+## 21. Paquito
 - FMvp
 
-## 23. ixia
+## 22. Ixia
 - Starlight
